@@ -40,6 +40,3 @@ pip install -r requirements.txt
 ## How it Works
 
 The script preprocesses the text data, extracts features from the text using the Bag-of-Words approach, and trains a machine learning model. The model is then evaluated using cross-validation to determine its performance.
-
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
